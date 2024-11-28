@@ -11,5 +11,6 @@ Cinema system native
 * [Download the lastest version of VORP Cinema](https://github.com/VORPCORE/VORP-Cinema/releases)
 * Copy and paste ```vorp_cinema``` folder to ```resources/vorp_cinema```
 * Add ```ensure vorp_cinema``` to your ```server.cfg``` file
-* To change the language go to ```resources/vorp_cinema```, remove the ```Config.json``` file and rename ```Config_En.json``` (In this case to change it to English) to ```Config.json``` 
+* Insert item sql
+* add image item to inventory
 * Enjoy!
